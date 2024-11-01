@@ -4,7 +4,7 @@ bl_info = {
     "category": "Object",
     "description": "Lattice deformer for armature and collider",
     "author": "toyofuku",
-    "version": (1, 0, 1)
+    "version": (1, 0, 0)
 }
 
 if "bpy" in locals():
