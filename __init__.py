@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Armature and Collider Processor",
+    "name": "Armature Deformer",
     "blender": (2, 80, 0),
     "category": "Object",
     "description": "Lattice deformer for armature and collider",
