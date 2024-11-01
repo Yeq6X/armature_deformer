@@ -8,7 +8,7 @@ class ProcessingSetting(bpy.types.PropertyGroup):
 
 class OBJECT_PT_armature_collider_processor_panel(bpy.types.Panel):
     """Panel for processing Armature and Colliders"""
-    bl_label = "Armature and Collider Processor"
+    bl_label = "Armature Deformer"
     bl_idname = "OBJECT_PT_armature_collider_processor_panel"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
