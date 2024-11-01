@@ -2,7 +2,7 @@
 
 Blenderアドオン「Armature Deformer」は、アーマチュアとコライダーにラティスモディファイアを適用できるアドオンです。
 
-また、`armature_collider_processor.py`の関数をAPIとして利用し、カスタムスクリプトに統合することもできます。
+`armature_collider_processor.py`の関数をAPIとして利用しカスタムスクリプトに統合することも可能です。
 
 BlenderのGUIモードだと多少時間がかかりますがPythonでヘッドレスでの実行だと早く完了します。
 
